@@ -28,7 +28,7 @@ end
 # What do you think is going on up there? Well the twitter gem gives us a class,
 # Twitter. We're configure the class with our credentials. Now that class basically
 # represents twitter.
-
+ 
 # Let's make our rack app.
 
 class App
